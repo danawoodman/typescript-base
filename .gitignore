@@ -1,0 +1,16 @@
+# Build dirs
+lib
+dist
+build
+
+# OS junk
+.DS_Store
+
+# Dependencies
+node_modules
+
+# Logs
+*.log
+
+# Keys
+*.pem

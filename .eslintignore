@@ -1,0 +1,7 @@
+__mocks__
+build
+dist
+lib
+node_modules
+.storybook
+docs
